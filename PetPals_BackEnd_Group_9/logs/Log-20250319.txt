@@ -1,0 +1,47 @@
+2025-03-19 13:41:53.086 +07:00 [INF] Now listening on: https://localhost:5001
+2025-03-19 13:41:53.095 +07:00 [INF] Now listening on: http://localhost:5000
+2025-03-19 13:41:53.166 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-19 13:41:53.168 +07:00 [INF] Hosting environment: Production
+2025-03-19 13:41:53.170 +07:00 [INF] Content root path: C:\Users\Asus\Downloads\UX_BackEnd_Group_9_Accelist\PetPals_BackEnd_Group_9
+2025-03-19 13:42:56.390 +07:00 [INF] Now listening on: https://localhost:5001
+2025-03-19 13:42:56.397 +07:00 [INF] Now listening on: http://localhost:5000
+2025-03-19 13:42:56.466 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-19 13:42:56.468 +07:00 [INF] Hosting environment: Production
+2025-03-19 13:42:56.470 +07:00 [INF] Content root path: C:\Users\Asus\Downloads\UX_BackEnd_Group_9_Accelist\PetPals_BackEnd_Group_9
+2025-03-19 13:43:49.840 +07:00 [INF] Now listening on: https://localhost:5001
+2025-03-19 13:43:49.847 +07:00 [INF] Now listening on: http://localhost:5000
+2025-03-19 13:43:49.912 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-19 13:43:49.914 +07:00 [INF] Hosting environment: Production
+2025-03-19 13:43:49.915 +07:00 [INF] Content root path: C:\Users\Asus\Downloads\UX_BackEnd_Group_9_Accelist\PetPals_BackEnd_Group_9
+2025-03-19 13:45:41.893 +07:00 [INF] Now listening on: https://localhost:5001
+2025-03-19 13:45:41.902 +07:00 [INF] Now listening on: http://localhost:5000
+2025-03-19 13:45:41.970 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-19 13:45:41.972 +07:00 [INF] Hosting environment: Production
+2025-03-19 13:45:41.973 +07:00 [INF] Content root path: C:\Users\Asus\Downloads\UX_BackEnd_Group_9_Accelist\PetPals_BackEnd_Group_9
+2025-03-19 13:48:58.045 +07:00 [INF] Now listening on: https://localhost:7249
+2025-03-19 13:48:58.052 +07:00 [INF] Now listening on: http://localhost:5099
+2025-03-19 13:48:58.136 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-19 13:48:58.138 +07:00 [INF] Hosting environment: Development
+2025-03-19 13:48:58.139 +07:00 [INF] Content root path: C:\Users\Asus\Downloads\UX_BackEnd_Group_9_Accelist\PetPals_BackEnd_Group_9
+2025-03-19 13:48:58.868 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7249/swagger - null null
+2025-03-19 13:48:58.972 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7249/swagger - 301 0 null 110.8509ms
+2025-03-19 13:48:58.976 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7249/swagger/index.html - null null
+2025-03-19 13:48:59.038 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7249/swagger/index.html - 200 null text/html;charset=utf-8 62.0871ms
+2025-03-19 13:48:59.042 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7249/swagger/swagger-ui.css - null null
+2025-03-19 13:48:59.042 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7249/swagger/swagger-ui-standalone-preset.js - null null
+2025-03-19 13:48:59.043 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7249/_vs/browserLink - null null
+2025-03-19 13:48:59.043 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7249/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-19 13:48:59.043 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7249/swagger/swagger-ui-bundle.js - null null
+2025-03-19 13:48:59.054 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7249/_framework/aspnetcore-browser-refresh.js - 200 16531 application/javascript; charset=utf-8 11.3053ms
+2025-03-19 13:48:59.125 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-03-19 13:48:59.126 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-03-19 13:48:59.128 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7249/swagger/swagger-ui.css - 200 152034 text/css 86.2348ms
+2025-03-19 13:48:59.128 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7249/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 86.1165ms
+2025-03-19 13:48:59.139 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-03-19 13:48:59.139 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7249/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 96.9583ms
+2025-03-19 13:48:59.164 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7249/_vs/browserLink - 200 null text/javascript; charset=UTF-8 121.5269ms
+2025-03-19 13:48:59.259 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7249/swagger/v1/swagger.json - null null
+2025-03-19 13:48:59.267 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7249/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.3688ms
+2025-03-19 13:48:59.272 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7249/swagger/favicon-32x32.png - null null
+2025-03-19 13:48:59.273 +07:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-03-19 13:48:59.273 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7249/swagger/favicon-32x32.png - 200 628 image/png 0.7957ms

@@ -2,7 +2,7 @@
 
 namespace PetPals_BackEnd_Group_9.Models
 {
-    public class SearchAdoptionListQuery : IRequest<List<AdoptionListDto>>
+    public record SearchAdoptionListQuery : IRequest<List<AdoptionListDto>>
     {
         public string? Name { get; set; }
         public int? MinAge { get; set; }

@@ -1,13 +1,20 @@
-﻿namespace PetPals_BackEnd_Group_9.Models
+﻿using MediatR;
+using System.ComponentModel.DataAnnotations;
+
+namespace PetPals_BackEnd_Group_9.Models
 {
-    public class AdoptionListDto
+    public class AdoptionListDto : IRequest<List<Pet>>
     {
         public int PetId { get; set; }
-        public string Name { get; set; } = string.Empty;
-        public string Breed { get; set; } = string.Empty;
+
+
+        public required string Name { get; set; } 
+
+        public required string Breed { get; set; }
         public int Age { get; set; }
-        public string Species { get; set; } = string.Empty;
+        public required string Species { get; set; }
         public decimal Price { get; set; }
-        public string Status { get; set; } = string.Empty;
+        public required string Status { get; set; }
     }
+
 }

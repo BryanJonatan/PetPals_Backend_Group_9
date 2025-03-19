@@ -21,7 +21,7 @@ namespace PetPals_BackEnd_Group_9
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
+           
             modelBuilder.Entity<User>(entity =>
             {
                 entity.HasKey(e => e.UserId);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetPals_BackEnd_Group_9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af5ca71aa22c6bc06242fb799c7e4f0f957a888e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef741cd9e70284e9420575cb39b551b0da536474")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetPals_BackEnd_Group_9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetPals_BackEnd_Group_9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
